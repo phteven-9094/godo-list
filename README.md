@@ -16,10 +16,10 @@ Social ToDo WebApp
 
 - GET todo list table
 - GET todos
-- POST new todo list table
+- POST new todo list
 - POST new todo
 - DELETE todo
-- DELETE todo list table
+- DELETE todo list
 - PATCH todo
 
 ### External APIs
